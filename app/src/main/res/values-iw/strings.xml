@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מחשבון פשוט</string>
+    <string name="firstNumber">מספר ראשון</string>
+    <string name="secondNumber">מספר שני</string>
+    <string name="AddNumbers">חישוב</string>
+</resources>
